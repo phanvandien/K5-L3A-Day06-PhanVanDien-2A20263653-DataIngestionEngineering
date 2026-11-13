@@ -1,0 +1,89 @@
+{
+  "run_at_utc": "2026-11-13T22:48:54+00:00",
+  "split_evaluated": "all",
+  "python": "3.14.0",
+  "packages": {
+    "sentence-transformers": "6.3.0",
+    "transformers": "5.22.2",
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "pillow": "13.0.0",
+    "chromadb": "1.5.9",
+    "pypdf": "6.21.4"
+  },
+  "embedding": {
+    "provider": "local sentence-transformers",
+    "model": "google/embeddinggemma-2",
+    "dimensions": 768,
+    "normalized": true,
+    "query_prefix": "task: search result | query: ",
+    "document_prefix": "title: none | text: ",
+    "cost_usd": 0
+  },
+  "vector_store": {
+    "store": "Chroma PersistentClient",
+    "chromadb": "1.5.9",
+    "path": "starter/chroma_db",
+    "collections": "day6_<strategy index>",
+    "metric": "cosine",
+    "search": "approximate (HNSW, Chroma defaults)"
+  },
+  "top_k": 3,
+  "strategies": {
+    "A": {
+      "index": "A",
+      "chunking": "fixed_size",
+      "size": 500,
+      "overlap": 50,
+      "use_filter": false
+    },
+    "B": {
+      "index": "B",
+      "chunking": "by_paragraph",
+      "max_size": 800,
+      "use_filter": false
+    },
+    "C": {
+      "index": "B",
+      "chunking": "by_paragraph",
+      "max_size": 800,
+      "use_filter": true
+    }
+  },
+  "indexes": {
+    "A": {
+      "chunk_count": 558,
+      "total_chars": 259595,
+      "min_chars": 56,
+      "median_chars": 500.0,
+      "mean_chars": 465.2,
+      "max_chars": 500,
+      "chunk_seconds": 0.001,
+      "embed_seconds": 224.824,
+      "store_seconds": 0.745,
+      "rows_after_ingest": 558,
+      "rows_after_reingest": 558,
+      "reingest_no_duplicates": true
+    },
+    "B": {
+      "chunk_count": 370,
+      "total_chars": 235971,
+      "min_chars": 88,
+      "median_chars": 691.5,
+      "mean_chars": 637.8,
+      "max_chars": 800,
+      "chunk_seconds": 0.007,
+      "embed_seconds": 140.965,
+      "store_seconds": 0.356,
+      "rows_after_ingest": 370,
+      "rows_after_reingest": 370,
+      "reingest_no_duplicates": true
+    }
+  },
+  "content_pages": 88,
+  "content_chars": 236254,
+  "source_files_sha256": {
+    "wb-taking-stock-2023-08": "cf1431b3b1cfbf76d955f500a9f9a990200c3cfc08c1654870176fba5a26926a",
+    "wb-taking-stock-2025-03": "7cfbf8a26707318663640ec8c5bde0f692034adf1b52fcd0497d8c5f4c3d6cc8"
+  }
+}

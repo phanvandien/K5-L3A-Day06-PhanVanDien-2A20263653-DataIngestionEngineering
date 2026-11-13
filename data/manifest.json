@@ -1,0 +1,50 @@
+{
+  "topic": "World Bank 'Taking Stock' economic updates on Viet Nam (August 2023 and March 2025)",
+  "page_counting_rule": "Page numbers are physical PDF pages (1-based), not the numbers printed on the page. Counted: overview/executive summary and the body of chapters 1 and 2. Not counted: cover, blank pages, copyright page, table of contents, lists of figures/tables, abbreviations, acknowledgements, chapter title pages, references, back cover. A counted page with fewer than 50 normalized characters would be logged as empty and skipped.",
+  "redistribution_note": "The PDFs are NOT committed to this repository. Their copyright pages reserve rights to the World Bank and direct licence queries to the Publishing and Knowledge Division; no Creative Commons licence is printed in the files. They are freely downloadable from the World Bank Documents & Reports site. Re-create the corpus by downloading each source_path_or_url to local_path.",
+  "documents": [
+    {
+      "source_id": "wb-taking-stock-2023-08",
+      "title": "Taking Stock August 2023: Making Public Investment Work for Growth",
+      "publisher": "World Bank",
+      "source_path_or_url": "https://documents.worldbank.org/curated/en/099408408092319382/pdf/IDU0301a3e760c732046e509d3106e81810de4b9.pdf",
+      "local_path": "starter/data/wb-taking-stock-2023-08.pdf",
+      "license_or_permission": "(c) 2023 The World Bank, all rights reserved per the copyright page; published for open public access on documents.worldbank.org. Used here for personal coursework only, not redistributed.",
+      "accessed_at": "2026-11-13",
+      "sha256": "see results/run_info.json",
+      "physical_pages": 58,
+      "content_pages": "11-17,19-37,39-52",
+      "content_page_count": 40,
+      "metadata": {"year": 2023, "document_type": "economic_update"},
+      "sections": [
+        {"section": "overview", "pages": "11-17"},
+        {"section": "economic_developments", "pages": "19-37"},
+        {"section": "special_focus", "pages": "39-52"}
+      ]
+    },
+    {
+      "source_id": "wb-taking-stock-2025-03",
+      "title": "Taking Stock March 2025: Electrifying Journeys - E-mobility Transition in Viet Nam",
+      "publisher": "World Bank",
+      "source_path_or_url": "https://documents.worldbank.org/curated/en/099919303102515323/pdf/IDU-409e0901-e76f-4c35-b13a-248c3fb8c4c0.pdf",
+      "local_path": "starter/data/wb-taking-stock-2025-03.pdf",
+      "license_or_permission": "(c) 2024 The World Bank, all rights reserved per the copyright page; published for open public access on documents.worldbank.org. Used here for personal coursework only, not redistributed.",
+      "accessed_at": "2026-11-13",
+      "sha256": "see results/run_info.json",
+      "physical_pages": 62,
+      "content_pages": "11-17,19-40,42-60",
+      "content_page_count": 48,
+      "metadata": {"year": 2025, "document_type": "economic_update"},
+      "sections": [
+        {"section": "overview", "pages": "11-17"},
+        {"section": "economic_developments", "pages": "19-40"},
+        {"section": "special_focus", "pages": "42-60"}
+      ]
+    }
+  ],
+  "metadata_fields": {
+    "year": "integer; publication year printed on the cover (AUGUST 2023 / MARCH 2025). Used as the filter field.",
+    "section": "string; from each report's table of contents mapped to physical pages: overview, economic_developments (chapter 1), special_focus (chapter 2).",
+    "document_type": "string; constant 'economic_update', descriptive only."
+  }
+}

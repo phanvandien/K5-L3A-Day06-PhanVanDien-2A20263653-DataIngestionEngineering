@@ -1,0 +1,844 @@
+﻿strategy,question_id,question,expected_answer,top3_chunk_ids,top3_text,evidence_hit_at_3_auto,grounding_0_2,reason
+A,q16,How did the share of subnational governments in total government expenditure change between 1992 and 2022?,It rose from 26 percent in 1992 to almost 60 percent in 2022.,wb-taking-stock-2023-08:p0042:fixed500-50:002 | wb-taking-stock-2023-08:p0016:fixed500-50:005 | wb-taking-stock-2023-08:p0042:fixed500-50:003,"alized capital spending. Since the early 1990s, the Vietnamese
+Government has embarked on a policy of rapid spending decentralization. Within the unitary set of rules
+and norms applied across the country, the share of subnational governments’ (SNGs) in total government
+expenditures increased from 26 percent in 1992 to almost 60 percent in 2022. 80 This spending is
+significantly higher than the international average (21.5 percent) and the lower middle-income economies’
+average (18.8 percent) and
+-----
+is
+decentralization policy has channeled an average
+of 80 percent of public investment (2017-2022)
+through subnational governments (SNGs), more
+than double the averages in unitary countries (34.5
+percent) and overall (39.5 percent). This devolution
+of spending decisions to provincial authorities
+has created many positive outcomes, particularly
+in service delivery. However, it has led to weak
+coordination across provinces and with central
+government and to proliferation of duplicate
+investments w
+-----
+ddle-income economies’
+average (18.8 percent) and Asia Pacific region (33.7 percent). As for capital expenditure, Vietnam’s central
+government accounted for a mere 20 percent of total government investment in 2022, compared to 40
+percent seven years ago. This decentralization policy has channeled on average 80 percent (2017–2022)
+of public investment through SNGs (Figure 2.5), more than double the averages in unitary countries (34.5
+percent) and overall (39.5 percent) (Figure 2.6).
+78 Public Exp",True,,
+A,q17,By how much could moving passengers and freight to other transport modes cut the extra power generation needed for EV charging?,"By 9-11 percent, with a modal shift of 35 percent by 2050.",wb-taking-stock-2025-03:p0052:fixed500-50:001 | wb-taking-stock-2025-03:p0052:fixed500-50:002 | wb-taking-stock-2025-03:p0017:fixed500-50:006,"TotalTX+DX TX+DXLCOE
+$/MWh
+LCOE
+$/MWh
+ADS
+2024-2030
+2031-2040
+2041-2050
+6
+59
+200
+8
+63
+209
+0
+0
+0
+1
+0
+9
+101
+90
+81
+79
+77
+71
+6
+59
+200
+9
+63
+218
+Promoting transport modal shifts for passenger and freight transport will substantially reduce
+overall EV charging demands. With around half (53 percent) of total EV charging demand over 2035–50
+expected to come from private electric passenger cars and small trucks for intercity freight transport,
+these segments have larger batteries and travel longer distanc
+-----
+ts have larger batteries and travel longer distances than e-2Ws, leading to substantially
+larger charging requirements vis-à-vis e-2Ws. To preserve transport sector decarbonization efforts,
+the government will need to actively shift demand in cities from private passenger cars to electrified
+public transit and e-truck usage to railway or waterway transport for freight. A modal shift among
+these segments at a scale of 35 percent by 2050 could reduce the required additional generation
+supply by 9–
+-----
+ectricity
+tariffs, encouraging the installation of
+smart chargers for off-peak charging and
+encouraging the development of behind-
+the-meter rooftop solar at public charging
+stations.
+l Promote transport demand modal shift
+(i) from personal car to public mass
+transit and from intercity commercial
+buses to railways; and (ii) from trucks
+to railway sand waterway transport for
+intercity freight transport.",False,,
+A,q18,Do Vietnam's construction regulations require climate change risks to be examined early in project preparation?,"No. They recognize the need to consider climate risks, but there is no regulatory requirement to examine them early, e.g. at feasibility study and appraisal.",wb-taking-stock-2023-08:p0051:fixed500-50:002 | wb-taking-stock-2023-08:p0017:fixed500-50:001 | wb-taking-stock-2023-08:p0016:fixed500-50:007,"onses, this
+should consider both the impacts of and on the project. While procedures for construction projects in the
+Construction Law and supporting regulations recognize the need to consider climate change risks and
+adaptation, there is no regulatory requirement to examine climate change risks early in project preparation,
+such as during preparation of the feasibility study and appraisal, when it is more efficient to develop,
+analyze, and integrate adaptive responses.
+Going forward, Vietnam wi
+-----
+ategy nor in prioritization of
+projects for budget funding in Vietnam. Subnational
+governments are least prepared as they lack policies
+and processes to assess and mitigate climate change’s
+physical and transition risks on large investments and
+assets. The lack of information on the value of assets
+and their risk exposure increases the cost of their
+insurance. Transboundary development challenges
+are emerging more frequently with more severity
+and require coordinated actions across various level
+-----
+nd sub-optimal private sector mobilization and
+financing. Vietnam has pursued several approaches to
+regional investment coordination; however, none has
+produced the expected results due to legal constraints
+and the lack of effective financing arrangements.
+Vietnam’s public investments and assets
+are increasingly exposed to growing climate
+change related risks. These include physical
+threats related to extreme weather events and
+climate change, and transition risks as the country
+commits to net z",True,,
+A,q19,How fast did credit grow?,Credit growth reached the government's target of 15 percent by the end of 2024.,wb-taking-stock-2025-03:p0031:fixed500-50:000 | wb-taking-stock-2025-03:p0013:fixed500-50:006 | wb-taking-stock-2023-08:p0012:fixed500-50:006,"ELECTRIFYING JOURNEYS: E-MOBILITY TRANSITION IN VIET NAM I 21
+Credit growth picked up during 2024, reaching the government’s target of 15 percent by the end of
+the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade,
+manufacturing, and real estate (Figure 1.25). Credit growth ceilings, a monetary and macroprudential
+tool to control inflation and excessive growth, have provided an incentive for banks to extend credit
+to maintain their indicative quot
+-----
+of the year. Credit
+growth increased in the second half of
+the year, driven by wholesale and retail
+trade, manufacturing, and real estate.
+Credit growth ceilings in recent years have
+provided an incentive for banks to extend
+credit to maintain their quotas, creating
+bunching by year end. These efforts
+to meet the credit ceiling could create
+inefficiencies by allocating resources to
+unproductive activities and distorting asset
+prices. However, in 2024, the SBV started
+to introduce a more flexible
+-----
+y a cumulative 150-
+200 bps through a series of four policy rate cuts
+between March and June 2023 to 3 percent and
+4.5 percent, respectively. Despite these cuts, credit
+growth slowed from 16.8 percent (y/y) in June 2022
+to 7.8 percent (y/y) in June 2023, reflecting weaker
+credit demand from businesses. Asset quality has
+been deteriorating with nonperforming loans (NPLs)
+rising from 1.9 percent in December 2022 to 2.9
+percent in March 2023, compelling the SBV to re-
+introduce regulatory forbearan",True,,
+A,q20,What GDP growth does the World Bank forecast for Viet Nam in 2025 and 2026?,6.8 percent in 2025 and 6.5 percent in 2026.,wb-taking-stock-2025-03:p0015:fixed500-50:002 | wb-taking-stock-2025-03:p0037:fixed500-50:002 | wb-taking-stock-2023-08:p0032:fixed500-50:004,"3
+3.3
+6.1
+-2.4
+36.0
+2022
+8.0
+7.8
+3.6
+5.8
+4.9
+2.2
+3.1
+0.3
+0.7
+37.1
+Viet Nam’s GDP growth is forecast to
+moderate to 6.8 percent in 2025 before
+settling at 6.5 percent in 2026 (Table 0.1).
+The rebound in exports in 2024 is expected
+to ease in 2025 and further into 2026 due
+to projected economic slowdown in China
+and the United States in the near-term - Viet
+Nam’s largest trade partners – and uncertain
+global trade prospects from shifts in trade
+policy. Domestic activities and services are
+expected
+-----
+owever, heightened trade
+uncertainty and adverse trade policy shifts represent key risks to the global outlook.
+1.2 Outlook and Policy Implications
+Viet Nam’s GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent
+in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further
+in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet
+Nam’s largest trade partners – and uncertain global
+-----
+cted to affect economic growth in the short term
+Vietnam’s economy is expected to grow by 4.7 percent in 2023, with a slow projected
+recovery to 5.5 percent in 2024 and to 6.0 percent in 2025. While softening, domestic demand
+is expected to be the main driver of growth in 2023. Private consumption will remain resilient, growing
+6.0 (y/y) percent - below its pre-pandemic growth of 7 percent (y/y) in 2019 - and contributing 3.4
+percentage point to GDP growth. Overall, investment will contribute 1.",True,,
+B,q16,How did the share of subnational governments in total government expenditure change between 1992 and 2022?,It rose from 26 percent in 1992 to almost 60 percent in 2022.,wb-taking-stock-2023-08:p0042:para800:001 | wb-taking-stock-2023-08:p0042:para800:002 | wb-taking-stock-2023-08:p0016:para800:003,"Increasing capital spending decentralization
+Public investment efficiency is also affected by Vietnam’s fragmented intergovernmental
+system and increasingly decentralized capital spending. Since the early 1990s, the Vietnamese
+Government has embarked on a policy of rapid spending decentralization. Within the unitary set of rules
+and norms applied across the country, the share of subnational governments’ (SNGs) in total government
+expenditures increased from 26 percent in 1992 to almost 60 percent in 2022. 80 This spending is
+significantly higher than the international average (21.5 percent) and the lower middle-income economies’
+average (18.8 percent) and Asia Pacific region (33.7 percent).
+-----
+As for capital expenditure, Vietnam’s central
+government accounted for a mere 20 percent of total government investment in 2022, compared to 40
+percent seven years ago. This decentralization policy has channeled on average 80 percent (2017–2022)
+of public investment through SNGs (Figure 2.5), more than double the averages in unitary countries (34.5
+percent) and overall (39.5 percent) (Figure 2.6).
+78 Public Expenditure and Financial Accountability (PEFA) Framework, Performance Indicator 1.
+79 Regional Investments in Vietnam: Challenges and Opportunities (WB Policy Note, 2023). Review sample included 14 transport projects
+which accounts for 13 percent of transport investment budget during 2011-20 (sourced from MOT).
+-----
+This
+decentralization policy has channeled an average
+of 80 percent of public investment (2017-2022)
+through subnational governments (SNGs), more
+than double the averages in unitary countries (34.5
+percent) and overall (39.5 percent). This devolution
+of spending decisions to provincial authorities
+has created many positive outcomes, particularly
+in service delivery. However, it has led to weak
+coordination across provinces and with central
+government and to proliferation of duplicate
+investments which are executed by both the central
+government and 63 provinces. There has been
+over-investment by provinces in low value, disjoint
+projects and stranded assets, with potential negative
+impact on the environment (such as low-occupancy
+industrial parks and provincial ports).",True,,
+B,q17,By how much could moving passengers and freight to other transport modes cut the extra power generation needed for EV charging?,"By 9-11 percent, with a modal shift of 35 percent by 2050.",wb-taking-stock-2025-03:p0052:para800:001 | wb-taking-stock-2025-03:p0053:para800:001 | wb-taking-stock-2025-03:p0051:para800:000,"With around half (53 percent) of total EV charging demand over 2035–50
+expected to come from private electric passenger cars and small trucks for intercity freight transport,
+these segments have larger batteries and travel longer distances than e-2Ws, leading to substantially
+larger charging requirements vis-à-vis e-2Ws. To preserve transport sector decarbonization efforts,
+the government will need to actively shift demand in cities from private passenger cars to electrified
+public transit and e-truck usage to railway or waterway transport for freight. A modal shift among
+these segments at a scale of 35 percent by 2050 could reduce the required additional generation
+supply by 9–11 percent across the SPS and ADS pathways.
+Source: World Bank calculations.
+Note: EN = Generation;
+-----
+Assuming all
+stated EV uptake targets included in Decision 876 materialize, total GHG emission reductions achieved
+by the transition would total around 226 MtCO2eq by 2050, representing a 60 percent reduction from the
+Nationally Determined Contribution (NDC) baseline scenario for transport emissions. Under ADS, total
+emission reductions could be slightly higher at 249 MtCO2eq, representing a 66 percent reduction from
+the baseline.
+Switching from ICE to electric vehicles could generate significant emissions reductions, even with
+the current power grid mix, due to the latter’s much higher energy efficiency.
+-----
+ELECTRIFYING JOURNEYS: E-MOBILITY TRANSITION IN VIET NAM I 41
+The incremental demand for EV charging translates into estimated grid generation supply growth of
+4.9 percent (CAGR 2035–50) compared to 3.7 percent currently planned in PDP8. To accommodate
+this level of demand, the sector will need additional network capacity on top of PDP8 at an average of
+3–5 and 12–20 percent during 2030–45 and 2045–50, respectively. Subsequently, up to 15 percent
+of additional transmission capacity will be needed by 2050 to allow for 100 percent electrification of
+road transport.
+To reduce e-mobility impacts on the power sector, network and battery efficiency enhancements
+are critical, while simultaneously promoting passenger and freight transport modal shifts in the
+long run.",True,,
+B,q18,Do Vietnam's construction regulations require climate change risks to be examined early in project preparation?,"No. They recognize the need to consider climate risks, but there is no regulatory requirement to examine them early, e.g. at feasibility study and appraisal.",wb-taking-stock-2023-08:p0051:para800:001 | wb-taking-stock-2023-08:p0016:para800:004 | wb-taking-stock-2023-08:p0051:para800:003,"Project appraisals for large projects
+require environmental impact assessments. Notionally, in relation to climate change and responses, this
+should consider both the impacts of and on the project. While procedures for construction projects in the
+Construction Law and supporting regulations recognize the need to consider climate change risks and
+adaptation, there is no regulatory requirement to examine climate change risks early in project preparation,
+such as during preparation of the feasibility study and appraisal, when it is more efficient to develop,
+analyze, and integrate adaptive responses.
+Going forward, Vietnam will need to sustain its level of public investment, rationalize its
+composition, and enhance the efficiency and effectiveness of PIM and IGF institutions.
+-----
+Consequently,
+inefficiencies have arisen from allocative duplications,
+implementation challenges, negative externalities,
+and sub-optimal private sector mobilization and
+financing. Vietnam has pursued several approaches to
+regional investment coordination; however, none has
+produced the expected results due to legal constraints
+and the lack of effective financing arrangements.
+Vietnam’s public investments and assets
+are increasingly exposed to growing climate
+change related risks. These include physical
+threats related to extreme weather events and
+climate change, and transition risks as the country
+commits to net zero emissions by 2050.
+-----
+In addition, providing methodological guidelines to prepare project Pre-FSs, both generic and sectoral,
+should be elaborated for the application of social cost benefit analyses and other complementary or
+supplementary tools and for the total costs for the entire project lifecycle to be estimated in project
+proposals. In order to enhance climate resilience of the country, climate change screening should be
+mandated from the early stage of investment policy and associated adaptation measures should be
+evaluated in both the Pre-FSs and feasibility studies of projects with high risks.
+z Second, it will be equally important to enhance project implementation and M&E for efficient
+conversion of capital spending into infrastructure once the resources are allocated.",True,,
+B,q19,How fast did credit grow?,Credit growth reached the government's target of 15 percent by the end of 2024.,wb-taking-stock-2025-03:p0031:para800:000 | wb-taking-stock-2025-03:p0030:para800:001 | wb-taking-stock-2025-03:p0013:para800:004,"ELECTRIFYING JOURNEYS: E-MOBILITY TRANSITION IN VIET NAM I 21
+Credit growth picked up during 2024, reaching the government’s target of 15 percent by the end of
+the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade,
+manufacturing, and real estate (Figure 1.25). Credit growth ceilings, a monetary and macroprudential
+tool to control inflation and excessive growth, have provided an incentive for banks to extend credit
+to maintain their indicative quotas, creating bunching by year end. These efforts to meet the credit
+ceiling could create inefficiencies by allocating resource to unproductive activities and distorting asset
+prices.
+-----
+Credit growth reached SBV’s
+target
+Interest rates, percent Credit growth, percent
+0%
+2%
+4%
+6%
+Dec-22 Jun-23 Dec-23 Jun-24 Dec-24
+Discount
+Refinancing
+Overnight Interbank (AVG)
+-1%
+0%
+1%
+2%
+3%
+4%
+5%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+Dec-22 Jun-23 Dec-23 Jun-24 Dec-24
+Month-on-month Year-on-year (LHS)
+SBV's target
+Source: Haver Analytics and World Bank staff calculationsSource: Haver Analytics
+with a real policy rate close to zero. In addition, the SBV used a series of instruments such as OMOs,
+caps on deposits and lending, credit growth ceilings, and foreign exchange interventions to control
+inflation, support economic growth and ensure macro-economic stability, including variations in the
+exchange rate.
+-----
+Credit growth ceilings in recent years have
+provided an incentive for banks to extend
+credit to maintain their quotas, creating
+bunching by year end. These efforts
+to meet the credit ceiling could create
+inefficiencies by allocating resources to
+unproductive activities and distorting asset
+prices. However, in 2024, the SBV started
+to introduce a more flexible approach to its
+credit growth caps, allowing selected banks
+with a strong capital base to expand loan
+bases beyond the predetermined indicative",True,,
+B,q20,What GDP growth does the World Bank forecast for Viet Nam in 2025 and 2026?,6.8 percent in 2025 and 6.5 percent in 2026.,wb-taking-stock-2025-03:p0015:para800:001 | wb-taking-stock-2025-03:p0038:para800:003 | wb-taking-stock-2025-03:p0038:para800:000,"Selected economic indicators, Viet Nam 2021–26
+2025f
+6.8
+7.1
+4.5
+8.4
+12.1
+12.7
+3.5
+1.8
+-1.4
+34.2
+2024e
+7.1
+6.6
+4.5
+7.3
+15.5
+16.1
+3.5
+1.9
+1.8
+35.6
+2026f
+6.5
+7.3
+4.4
+8.1
+5.5
+6.3
+3.5
+1.7
+-1.0
+32.4
+Indicator
+GDP growth (%)
+Growth of expenditure components
+Private consumption
+Public consumption
+Investment
+Exports
+Imports
+Consumer Price Index (average, %)
+Current account balance (% of GDP)
+Fiscal balance (*) (% of GDP)
+Public & publicly guaranteed debt (**) (% of GDP)
+2021
+2.6
+2.0
+4.7
+3.7
+13.9
+15.8
+1.8
+-2.2
+-1.4
+42.5
+2023
+5.0
+3.5
+4.9
+4.1
+-2.5
+-4.3
+3.3
+6.1
+-2.4
+36.0
+2022
+8.0
+7.8
+3.6
+5.8
+4.9
+2.2
+3.1
+0.3
+0.7
+37.1
+Viet Nam’s GDP growth is forecast to
+moderate to 6.8 percent in 2025 before
+settling at 6.5 percent in 2026 (Table 0.1).
+-----
+Selected economic indicators, Viet Nam 2021–26
+2025f
+6.8
+7.1
+4.5
+8.4
+12.1
+12.7
+3.5
+1.8
+-1.4
+34.2
+2024e
+7.1
+6.6
+4.5
+7.3
+15.5
+16.1
+3.5
+1.9
+1.8
+35.6
+2026f
+6.5
+7.3
+4.4
+8.1
+5.5
+6.3
+3.5
+1.7
+-1.0
+32.4
+Indicator
+GDP growth (%)
+Growth of expenditure components
+Private consumption
+Public consumption
+Investment
+Exports
+Imports
+Consumer Price Index (average, %)
+Current account balance (% of GDP)
+Fiscal balance (*) (% of GDP)
+Public & publicly guaranteed debt (**) (% of GDP)
+2021
+2.6
+2.0
+4.7
+3.7
+13.9
+15.8
+1.8
+-2.2
+-1.4
+42.5
+2023
+5.0
+3.5
+4.9
+4.1
+-2.5
+-4.3
+3.3
+6.1
+-2.4
+36.0
+2022
+8.0
+7.8
+3.6
+5.8
+4.9
+2.2
+3.1
+0.3
+0.7
+37.1
+-----
+28 I TAKING STOCK MARCH 2025
+is expected to have a marginal impact on headline inflation given the limited size of the public sector
+in overall employment (3.8 percent of total employment 21).
+Foreign investment and trade turnover are expected to remain important drivers of growth over
+2025–26, but with heightened uncertainty. The current account is projected to maintain a surplus,
+primarily driven by the merchandise trade balance. FDI inflows are expected to remain stable in the
+short- to medium-terms, reflecting foreign investors’ sustained interest in Viet Nam.
+After tightening in 2024, the fiscal account is expected to return to a deficit is in 2025-26 due to
+planned increases in expenditures.",True,,
+C,q16,How did the share of subnational governments in total government expenditure change between 1992 and 2022?,It rose from 26 percent in 1992 to almost 60 percent in 2022.,wb-taking-stock-2023-08:p0042:para800:001 | wb-taking-stock-2023-08:p0042:para800:002 | wb-taking-stock-2023-08:p0016:para800:003,"Increasing capital spending decentralization
+Public investment efficiency is also affected by Vietnam’s fragmented intergovernmental
+system and increasingly decentralized capital spending. Since the early 1990s, the Vietnamese
+Government has embarked on a policy of rapid spending decentralization. Within the unitary set of rules
+and norms applied across the country, the share of subnational governments’ (SNGs) in total government
+expenditures increased from 26 percent in 1992 to almost 60 percent in 2022. 80 This spending is
+significantly higher than the international average (21.5 percent) and the lower middle-income economies’
+average (18.8 percent) and Asia Pacific region (33.7 percent).
+-----
+As for capital expenditure, Vietnam’s central
+government accounted for a mere 20 percent of total government investment in 2022, compared to 40
+percent seven years ago. This decentralization policy has channeled on average 80 percent (2017–2022)
+of public investment through SNGs (Figure 2.5), more than double the averages in unitary countries (34.5
+percent) and overall (39.5 percent) (Figure 2.6).
+78 Public Expenditure and Financial Accountability (PEFA) Framework, Performance Indicator 1.
+79 Regional Investments in Vietnam: Challenges and Opportunities (WB Policy Note, 2023). Review sample included 14 transport projects
+which accounts for 13 percent of transport investment budget during 2011-20 (sourced from MOT).
+-----
+This
+decentralization policy has channeled an average
+of 80 percent of public investment (2017-2022)
+through subnational governments (SNGs), more
+than double the averages in unitary countries (34.5
+percent) and overall (39.5 percent). This devolution
+of spending decisions to provincial authorities
+has created many positive outcomes, particularly
+in service delivery. However, it has led to weak
+coordination across provinces and with central
+government and to proliferation of duplicate
+investments which are executed by both the central
+government and 63 provinces. There has been
+over-investment by provinces in low value, disjoint
+projects and stranded assets, with potential negative
+impact on the environment (such as low-occupancy
+industrial parks and provincial ports).",True,,
+C,q17,By how much could moving passengers and freight to other transport modes cut the extra power generation needed for EV charging?,"By 9-11 percent, with a modal shift of 35 percent by 2050.",wb-taking-stock-2025-03:p0052:para800:001 | wb-taking-stock-2025-03:p0053:para800:001 | wb-taking-stock-2025-03:p0051:para800:000,"With around half (53 percent) of total EV charging demand over 2035–50
+expected to come from private electric passenger cars and small trucks for intercity freight transport,
+these segments have larger batteries and travel longer distances than e-2Ws, leading to substantially
+larger charging requirements vis-à-vis e-2Ws. To preserve transport sector decarbonization efforts,
+the government will need to actively shift demand in cities from private passenger cars to electrified
+public transit and e-truck usage to railway or waterway transport for freight. A modal shift among
+these segments at a scale of 35 percent by 2050 could reduce the required additional generation
+supply by 9–11 percent across the SPS and ADS pathways.
+Source: World Bank calculations.
+Note: EN = Generation;
+-----
+Assuming all
+stated EV uptake targets included in Decision 876 materialize, total GHG emission reductions achieved
+by the transition would total around 226 MtCO2eq by 2050, representing a 60 percent reduction from the
+Nationally Determined Contribution (NDC) baseline scenario for transport emissions. Under ADS, total
+emission reductions could be slightly higher at 249 MtCO2eq, representing a 66 percent reduction from
+the baseline.
+Switching from ICE to electric vehicles could generate significant emissions reductions, even with
+the current power grid mix, due to the latter’s much higher energy efficiency.
+-----
+ELECTRIFYING JOURNEYS: E-MOBILITY TRANSITION IN VIET NAM I 41
+The incremental demand for EV charging translates into estimated grid generation supply growth of
+4.9 percent (CAGR 2035–50) compared to 3.7 percent currently planned in PDP8. To accommodate
+this level of demand, the sector will need additional network capacity on top of PDP8 at an average of
+3–5 and 12–20 percent during 2030–45 and 2045–50, respectively. Subsequently, up to 15 percent
+of additional transmission capacity will be needed by 2050 to allow for 100 percent electrification of
+road transport.
+To reduce e-mobility impacts on the power sector, network and battery efficiency enhancements
+are critical, while simultaneously promoting passenger and freight transport modal shifts in the
+long run.",True,,
+C,q18,Do Vietnam's construction regulations require climate change risks to be examined early in project preparation?,"No. They recognize the need to consider climate risks, but there is no regulatory requirement to examine them early, e.g. at feasibility study and appraisal.",wb-taking-stock-2023-08:p0051:para800:001 | wb-taking-stock-2023-08:p0016:para800:004 | wb-taking-stock-2023-08:p0051:para800:003,"Project appraisals for large projects
+require environmental impact assessments. Notionally, in relation to climate change and responses, this
+should consider both the impacts of and on the project. While procedures for construction projects in the
+Construction Law and supporting regulations recognize the need to consider climate change risks and
+adaptation, there is no regulatory requirement to examine climate change risks early in project preparation,
+such as during preparation of the feasibility study and appraisal, when it is more efficient to develop,
+analyze, and integrate adaptive responses.
+Going forward, Vietnam will need to sustain its level of public investment, rationalize its
+composition, and enhance the efficiency and effectiveness of PIM and IGF institutions.
+-----
+Consequently,
+inefficiencies have arisen from allocative duplications,
+implementation challenges, negative externalities,
+and sub-optimal private sector mobilization and
+financing. Vietnam has pursued several approaches to
+regional investment coordination; however, none has
+produced the expected results due to legal constraints
+and the lack of effective financing arrangements.
+Vietnam’s public investments and assets
+are increasingly exposed to growing climate
+change related risks. These include physical
+threats related to extreme weather events and
+climate change, and transition risks as the country
+commits to net zero emissions by 2050.
+-----
+In addition, providing methodological guidelines to prepare project Pre-FSs, both generic and sectoral,
+should be elaborated for the application of social cost benefit analyses and other complementary or
+supplementary tools and for the total costs for the entire project lifecycle to be estimated in project
+proposals. In order to enhance climate resilience of the country, climate change screening should be
+mandated from the early stage of investment policy and associated adaptation measures should be
+evaluated in both the Pre-FSs and feasibility studies of projects with high risks.
+z Second, it will be equally important to enhance project implementation and M&E for efficient
+conversion of capital spending into infrastructure once the resources are allocated.",True,,
+C,q19,How fast did credit grow?,Credit growth reached the government's target of 15 percent by the end of 2024.,wb-taking-stock-2025-03:p0031:para800:000 | wb-taking-stock-2025-03:p0030:para800:001 | wb-taking-stock-2025-03:p0013:para800:004,"ELECTRIFYING JOURNEYS: E-MOBILITY TRANSITION IN VIET NAM I 21
+Credit growth picked up during 2024, reaching the government’s target of 15 percent by the end of
+the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade,
+manufacturing, and real estate (Figure 1.25). Credit growth ceilings, a monetary and macroprudential
+tool to control inflation and excessive growth, have provided an incentive for banks to extend credit
+to maintain their indicative quotas, creating bunching by year end. These efforts to meet the credit
+ceiling could create inefficiencies by allocating resource to unproductive activities and distorting asset
+prices.
+-----
+Credit growth reached SBV’s
+target
+Interest rates, percent Credit growth, percent
+0%
+2%
+4%
+6%
+Dec-22 Jun-23 Dec-23 Jun-24 Dec-24
+Discount
+Refinancing
+Overnight Interbank (AVG)
+-1%
+0%
+1%
+2%
+3%
+4%
+5%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+Dec-22 Jun-23 Dec-23 Jun-24 Dec-24
+Month-on-month Year-on-year (LHS)
+SBV's target
+Source: Haver Analytics and World Bank staff calculationsSource: Haver Analytics
+with a real policy rate close to zero. In addition, the SBV used a series of instruments such as OMOs,
+caps on deposits and lending, credit growth ceilings, and foreign exchange interventions to control
+inflation, support economic growth and ensure macro-economic stability, including variations in the
+exchange rate.
+-----
+Credit growth ceilings in recent years have
+provided an incentive for banks to extend
+credit to maintain their quotas, creating
+bunching by year end. These efforts
+to meet the credit ceiling could create
+inefficiencies by allocating resources to
+unproductive activities and distorting asset
+prices. However, in 2024, the SBV started
+to introduce a more flexible approach to its
+credit growth caps, allowing selected banks
+with a strong capital base to expand loan
+bases beyond the predetermined indicative",True,,
+C,q20,What GDP growth does the World Bank forecast for Viet Nam in 2025 and 2026?,6.8 percent in 2025 and 6.5 percent in 2026.,wb-taking-stock-2025-03:p0015:para800:001 | wb-taking-stock-2025-03:p0038:para800:003 | wb-taking-stock-2025-03:p0038:para800:000,"Selected economic indicators, Viet Nam 2021–26
+2025f
+6.8
+7.1
+4.5
+8.4
+12.1
+12.7
+3.5
+1.8
+-1.4
+34.2
+2024e
+7.1
+6.6
+4.5
+7.3
+15.5
+16.1
+3.5
+1.9
+1.8
+35.6
+2026f
+6.5
+7.3
+4.4
+8.1
+5.5
+6.3
+3.5
+1.7
+-1.0
+32.4
+Indicator
+GDP growth (%)
+Growth of expenditure components
+Private consumption
+Public consumption
+Investment
+Exports
+Imports
+Consumer Price Index (average, %)
+Current account balance (% of GDP)
+Fiscal balance (*) (% of GDP)
+Public & publicly guaranteed debt (**) (% of GDP)
+2021
+2.6
+2.0
+4.7
+3.7
+13.9
+15.8
+1.8
+-2.2
+-1.4
+42.5
+2023
+5.0
+3.5
+4.9
+4.1
+-2.5
+-4.3
+3.3
+6.1
+-2.4
+36.0
+2022
+8.0
+7.8
+3.6
+5.8
+4.9
+2.2
+3.1
+0.3
+0.7
+37.1
+Viet Nam’s GDP growth is forecast to
+moderate to 6.8 percent in 2025 before
+settling at 6.5 percent in 2026 (Table 0.1).
+-----
+Selected economic indicators, Viet Nam 2021–26
+2025f
+6.8
+7.1
+4.5
+8.4
+12.1
+12.7
+3.5
+1.8
+-1.4
+34.2
+2024e
+7.1
+6.6
+4.5
+7.3
+15.5
+16.1
+3.5
+1.9
+1.8
+35.6
+2026f
+6.5
+7.3
+4.4
+8.1
+5.5
+6.3
+3.5
+1.7
+-1.0
+32.4
+Indicator
+GDP growth (%)
+Growth of expenditure components
+Private consumption
+Public consumption
+Investment
+Exports
+Imports
+Consumer Price Index (average, %)
+Current account balance (% of GDP)
+Fiscal balance (*) (% of GDP)
+Public & publicly guaranteed debt (**) (% of GDP)
+2021
+2.6
+2.0
+4.7
+3.7
+13.9
+15.8
+1.8
+-2.2
+-1.4
+42.5
+2023
+5.0
+3.5
+4.9
+4.1
+-2.5
+-4.3
+3.3
+6.1
+-2.4
+36.0
+2022
+8.0
+7.8
+3.6
+5.8
+4.9
+2.2
+3.1
+0.3
+0.7
+37.1
+-----
+28 I TAKING STOCK MARCH 2025
+is expected to have a marginal impact on headline inflation given the limited size of the public sector
+in overall employment (3.8 percent of total employment 21).
+Foreign investment and trade turnover are expected to remain important drivers of growth over
+2025–26, but with heightened uncertainty. The current account is projected to maintain a surplus,
+primarily driven by the merchandise trade balance. FDI inflows are expected to remain stable in the
+short- to medium-terms, reflecting foreign investors’ sustained interest in Viet Nam.
+After tightening in 2024, the fiscal account is expected to return to a deficit is in 2025-26 due to
+planned increases in expenditures.",True,,

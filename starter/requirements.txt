@@ -2,3 +2,8 @@
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+sentence-transformers>=2.7
+chromadb>=0.5
+numpy
+Pillow
+torchvision

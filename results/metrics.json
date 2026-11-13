@@ -1,0 +1,80 @@
+{
+  "A": {
+    "dev": {
+      "n_questions": 15,
+      "hit_at_1_count": 8,
+      "hit_at_3_count": 14,
+      "hit_at_1": "8/15",
+      "hit_at_3": "14/15",
+      "evidence_split_suspected": [],
+      "missed_at_3": [
+        "q10"
+      ],
+      "filter_questions": 2,
+      "filter_respected": "2/2"
+    },
+    "test": {
+      "n_questions": 5,
+      "hit_at_1_count": 4,
+      "hit_at_3_count": 4,
+      "hit_at_1": "4/5",
+      "hit_at_3": "4/5",
+      "evidence_split_suspected": [
+        "q17"
+      ],
+      "missed_at_3": [
+        "q17"
+      ],
+      "filter_questions": 1,
+      "filter_respected": "0/1"
+    }
+  },
+  "B": {
+    "dev": {
+      "n_questions": 15,
+      "hit_at_1_count": 11,
+      "hit_at_3_count": 15,
+      "hit_at_1": "11/15",
+      "hit_at_3": "15/15",
+      "evidence_split_suspected": [],
+      "missed_at_3": [],
+      "filter_questions": 2,
+      "filter_respected": "0/2"
+    },
+    "test": {
+      "n_questions": 5,
+      "hit_at_1_count": 5,
+      "hit_at_3_count": 5,
+      "hit_at_1": "5/5",
+      "hit_at_3": "5/5",
+      "evidence_split_suspected": [],
+      "missed_at_3": [],
+      "filter_questions": 1,
+      "filter_respected": "1/1"
+    }
+  },
+  "C": {
+    "dev": {
+      "n_questions": 15,
+      "hit_at_1_count": 11,
+      "hit_at_3_count": 15,
+      "hit_at_1": "11/15",
+      "hit_at_3": "15/15",
+      "evidence_split_suspected": [],
+      "missed_at_3": [],
+      "filter_questions": 2,
+      "filter_respected": "2/2"
+    },
+    "test": {
+      "n_questions": 5,
+      "hit_at_1_count": 5,
+      "hit_at_3_count": 5,
+      "hit_at_1": "5/5",
+      "hit_at_3": "5/5",
+      "evidence_split_suspected": [],
+      "missed_at_3": [],
+      "filter_questions": 1,
+      "filter_respected": "1/1"
+    }
+  }
+}
